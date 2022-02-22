@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theses philosophicae quas auspice &amp; propitio D.O.M. adolescentes, magisterii candidati, in Academia Mareschallana, die 21 Iulii, Anno 1637. In publico clarissimorum philosophorum confessu propugnabunt, ab aurora ad meridiem.</title>
+            <author>Seton, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1637</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20710</idno>
+            <idno type="STC">STC 71.40</idno>
+            <idno type="STC">ESTC S118763</idno>
+            <idno type="EEBO-CITATION">99853970</idno>
+            <idno type="PROQUEST">99853970</idno>
+            <idno type="VID">19375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1584:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theses philosophicae quas auspice &amp; propitio D.O.M. adolescentes, magisterii candidati, in Academia Mareschallana, die 21 Iulii, Anno 1637. In publico clarissimorum philosophorum confessu propugnabunt, ab aurora ad meridiem.</title>
+                  <author>Seton, John.</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprimebat Edwardus Rabanns [sic],</publisher>
+                  <pubPlace>Abredoniæ :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: pi³ b²  g²  d³.</note>
+                  <note>Formerly STC 22263.</note>
+                  <note>Identified as STC 22263 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marischal College and University --  Dissertations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19375:1" rendition="simple:additions"/>
+            <p>THESES PHILOSOPHICAE, Quas Auſpice &amp; Propitio D. O. M.</p>
+            <p>
+               <hi>Adoleſcentes Magiſterii candidati,</hi> IN ACADEMIA MARESCHALLANA, Die <hi>18</hi> Iulii, ANNO 1634.</p>
+            <p>
+               <hi>In publico Clariſsimorum Philoſophorum Conſeſſu pro<g ref="char:EOLhyphen"/>pugnabunt, ab aurora ad meridiem.</hi>
+            </p>
+            <p>PRAESIDE IOANNE SETONO.</p>
+            <q>
+               <p>Quum ſapere, id eſt, veritatem quaerere, omnibus ſit innatum, ſapientiam ſibi adimunt, qui ſine ullo judicio inventa majo<g ref="char:EOLhyphen"/>rum probant; &amp; ab aliis pecudum more ducuntur. Sed hoc eos fallit, quod majorum nomine poſito, non putant fieri poſſe, ut aut ipſi plus ſapiant quia minores vocantur: aut illi deſipuerint, quia majores nominantur.</p>
+               <bibl>Lactantius, Lib. 2.</bibl>
+            </q>
+            <p>ABERDONIAE. Excudebat Edwardus Rabanus, 1634.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19375:2" rendition="simple:additions"/>
+            <p>Nobiliſsimo Adoleſcenti, pietate, virtute, &amp; eruditione Clariſsimo, Do<g ref="char:EOLhyphen"/>mino GVLIELMO KETHO, Illu<g ref="char:EOLhyphen"/>ſtriſſimi Comitis <hi>MARESCHALLI, KETHAEAE</hi> Familiae Principis, D. a <hi>KETH, ALTRE,</hi> &amp;c. Filio natu Maximo, unicis noſtrarum Muſarum deliciis, Maecenati noſtro ter Munificentiſsi<g ref="char:EOLhyphen"/>mo &amp; Maximo,</p>
+            <closer>
+               <signed>S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="theses">
+            <p>
+               <seg rend="decorInit">S</seg>I Bello parta Marti dicantur (Maecenas Mu<g ref="char:EOLhyphen"/>nificentiſſime) Mari quaeſita Neptuno, Cere<g ref="char:EOLhyphen"/>ri Meſſis, ſi Mercurio lucra libantur: ſi item rerum omnium quaedam ad cultum referun<g ref="char:EOLhyphen"/>tur autotum, cui ſua omnia conſecrare no<g ref="char:EOLhyphen"/>ſtris Mulis fas eſt? niſi illuſtri Tuae Nobilita<g ref="char:EOLhyphen"/>ti, Muſarum noſtrarum, quas omnium vir<g ref="char:EOLhyphen"/>tutum la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de conſpicui, ſummiſue honori<g ref="char:EOLhyphen"/>bus functi, Tui genuere Parentes, nutrici unicae, ſedulae blandae. Veſtra Nobilitas, inclytam hic in celeberrima, antiquiſſima, mul<g ref="char:EOLhyphen"/>tiſue nominibus feliciſſima civitate ABREDONIA, ACADEMIAN, Ampliſſimis dita<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> redditibus &amp; congiariis inſtituit, ad pere<g ref="char:cmbAbbrStroke">̄</g>nem KETHAEI nominis ſplendorem, aeternam divini Numinis gloriam, clariſſimae ABREDONIA felicitatem, gentiumque peregrinarum utilitatem, &amp; aedificationem. Olim Graeciae oculus Athenae, Sco<g ref="char:EOLhyphen"/>tiae hodie veſtra benignitate ABREDONIA: nuſquam enim inge<g ref="char:EOLhyphen"/>niorum felicior proventus, doctrine uberior ſeges, eruditiſſimos MARESCHALLANAE ACADE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, vivos, mortuorumque manes, illuſtria Europae lu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Nihil pia hac liberali<g ref="char:EOLhyphen"/>tate DEO gratius, hom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntori glorioſius. Sempi<g ref="char:EOLhyphen"/>terna haec veſtra gloria, cujus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> habetis neminem, &amp; ex qua, nulla quicquam ſibi decerpit nobilitas, cunctis Midae Regis<g ref="char:punc">▪</g> &amp; Croe<g ref="char:EOLhyphen"/>ſi caducis ac fluxis opibus, imo ipſius, qui auro fluxiſſe dicitur Pa<g ref="char:EOLhyphen"/>ctoli
+<pb facs="tcp:19375:2"/> anteponenda eſt. Piae vos munificentiae palmam, toti praeripui<g ref="char:EOLhyphen"/>ſtis nobilitati, licet ad munificentiae apicem pervenerit. Non enim par eſt quempiam, tantam auſpicari liberalitatem, &amp; ad eundem, alium reſpicientem, omnibus numeris perfectam illius virtutem imitari. Nec minus alia Tua dona, quibus raro Numinis favore ornatus ſplendes, quam avita munificentia, cunctis Te cha<g ref="char:EOLhyphen"/>rum &amp; gratum reddunt, Regiam ſtirpem, affinitatem nobilem, il<g ref="char:EOLhyphen"/>luſtris familiae antiquitatem, pie cumulatas opes, caeteraque externa bona, cunctis notiſſima, uberrimam faſtorum, non epiſtolii mate<g ref="char:EOLhyphen"/>riam tacemus, Praeclaras corporis, animi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dotes loquimur. Apta adeo membrorum eſt proportio, grata coloris lenocinanti illis ſua<g ref="char:EOLhyphen"/>vitate, decora corporis proceritas, laeti &amp; illuſtres oculi, grata oris dignitas, cui non minus autoritatis quam gratiae ineſt, que<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ideo perſtringat ſimul &amp; invitet aſpectum: ea denique totius corporis lineamenta, ut Ideam natura, ſolicita meditata videatur. Ex vul<g ref="char:EOLhyphen"/>tu verò, membrorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> decore facile colligi poteſt, quantus te coe<g ref="char:EOLhyphen"/>leſtis ſpiritus intrarit habitator, quodque, divite virtutum huma<g ref="char:EOLhyphen"/>narum, divinarum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſupellectile ornatus ſit animus. Ingenium ve<g ref="char:EOLhyphen"/>lox, peracris mens, ſingularis memoria, alta indoles, niveum pe<g ref="char:EOLhyphen"/>ctus, magnae olim fortunae indices ſpiritus. Porro nullum non offi<g ref="char:EOLhyphen"/>cii genus meretur, imo nobis vel ingratiſſimis extorquet jucundiſ<g ref="char:EOLhyphen"/>ſima Tua, triennii in inclyta Tua nobiſcum Academia conſuetudo. Philoſophiae ſpeculativae, practicae, Tua feliciſſime operata eſt nobi<g ref="char:EOLhyphen"/>litas, quae perpetuo motu, &amp; jugi agitatione gaudens, ut indefeſſa vertigo Coelum rotat, ut maria aeſtibus inquieta ſunt, &amp; ſtare Sol neſcit, ita continuatis literarum bonarum ſtudiis, honeſtiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> exerci<g ref="char:EOLhyphen"/>tiis, Tua origine dignis, ſanitatis tuendae corporiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> roborandi er<g ref="char:EOLhyphen"/>go, in ſe quodam orbe redeuntibus ſemper exercita eſt. Nullum arrogantiae, indiſcretae felicium pediſſequae veſtigium in Te appa<g ref="char:EOLhyphen"/>ruit, ſed incredibilis in tanta altitudine humanitas, ſinceri cultus &amp; obſervantiae conciliatricula. Eximia Tua in praeceptores obſervan<g ref="char:EOLhyphen"/>tia, gratitudo, licet Tuis impendiis viventes. Singularis in omnes comitas. Nullius inceſſus modeſtior, habitudo cohibitior, familiaris habitus condecentior, ideo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cuncti Te ſtudioſi, aliique, aequi divi<g ref="char:EOLhyphen"/>narum Tuarum virtutum aeſtimatores admirati, certatim dilexe<g ref="char:EOLhyphen"/>runt, oculis, animo, complexu tenuerunt. Non Tu pietatis (omnium virtutum animae) larvam &amp; inanem ſpeciem praetuliſti, ſed expreſ<g ref="char:EOLhyphen"/>ſiſſimum ejuſdem exemplar, ſingulas conciones ſacras ut noviſſi<g ref="char:EOLhyphen"/>mam; ſumma cum corporis modeſtia, debita animi attentione ex<g ref="char:EOLhyphen"/>audiiſti, coeleſtis amoris, pectori i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſixa face, divinis, diu noctuque ſuccreſcente alimentis. Tu in corrupta noſtra nobilitate, veluti gemmae in hoc adoleſcentiae lubrico vixtitubaſti, adeo non cecidi<g ref="char:EOLhyphen"/>ſti, Tua tenerioris aetatis navicula in turbido afféctuum mari, Cha<g ref="char:EOLhyphen"/>rybdim
+<pb facs="tcp:19375:3"/> &amp; Scyllam, omneſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> illaeſa &amp; illiſa praetervecta eſt ſcopu<g ref="char:EOLhyphen"/>los, peritiſsimo ad clavum ſedente nauclero, D. Magiſtro Roberto Martino, adoleſcente doctiſſimo, prudentiſſimo, piiſſimo, magnae juventutis educandae artifice, qui ad formandum ingenium Tuum, divinitus Tibi datus, dulciſſimo Te pueru<g ref="char:cmbAbbrStroke">̄</g>, pietatis &amp; virtutis lacte, folidiore adultum eſca nutrivit. O feliciſſimos Tuos Parentes, quibus largo benigniſsimi DEI munere obtigit haeres, generis ſui decus &amp; gloria, familiae columen, coaevorum flos, commune li<g ref="char:EOLhyphen"/>teratorum gaudium, fatalis Muſarum amor, ſcientiarum quippe ac virtutu<g ref="char:cmbAbbrStroke">̄</g> Atlas futurus, quem ad magna natales, ad ſumma iugenium vocat. Felices nos quoque, quibus, tantis virtutibus ſplendentem nobilem, Patronum aſciſcere libet &amp; licet, cui cum nihil ſit, quod tanta celſitudine dignum, tot nos arctiſsimis ſervitutis vinculis ob<g ref="char:EOLhyphen"/>ſtricti offeramus, quod ſolum noſtrae opis eſt, gratias agimus im<g ref="char:EOLhyphen"/>mortales, relaturi ſi poſſemus. Sed nec tua fortuna deſiderat re<g ref="char:EOLhyphen"/>munerandi vicem, nec noſtra ſuggerit reſtituendi facultatem: pri<g ref="char:EOLhyphen"/>vatorum iſta copia eſt inter ſe eſſe munificos. Has interim ſoli Tui quaſi fruges, Tua deponimus in manu, non quod ex Tuo nos aere eximere videri velimus, cujus haud mediocri voluptate affici<g ref="char:EOLhyphen"/>mur, ſed quò aeternum noſtrum obſequium teſtemur, coelitumque parentem, nobis gratificatum, Tuae nos nobilitati debitores conſti<g ref="char:EOLhyphen"/>tuendo profiteamur, à quo Tuae celſitudini hic pacem &amp; proſpera omnia, in Patriam hinc vocato (utinam ſero) gloriam, ſumma vo<g ref="char:EOLhyphen"/>torum nuncupatione depoſcimus.</p>
+            <list>
+               <head>Vestrae Nobilitati Addictiſsimi,</head>
+               <item>ADAMVS</item>
+               <item>ALEXANDER</item>
+               <item>ALEXANDER</item>
+               <item>ALEXANDER</item>
+               <item>DVNCANVS</item>
+               <item>IACOBVS</item>
+               <item>IACOBVS</item>
+               <item>IACOBVS</item>
+               <item>IACOBVS</item>
+               <item>IACOBVS</item>
+               <item>IACOBVS</item>
+               <item>IOANNES</item>
+               <item>IOANNES</item>
+               <item>ROBERTVS</item>
+               <item>ROGERVS</item>
+               <item>ANDERSONVS,</item>
+               <item>BRVNAEVS,</item>
+               <item>CHYNAEVS,</item>
+               <item>MAIRTINVS,</item>
+               <item>LIDDELVS,</item>
+               <item>CHYNAEVS,</item>
+               <item>DOVNAEVS,</item>
+               <item>GORDONVS,</item>
+               <item>GREIGAEVS,</item>
+               <item>MVRCORVS,</item>
+               <item>RAIVS,</item>
+               <item>ALEXANDER,</item>
+               <item>BLACKAEVS,</item>
+               <item>GRAIVS,</item>
+               <item>PATTONVS.</item>
+            </list>
+         </div>
+         <div type="list_of_theses">
+            <div n="philosophy" type="subject">
+               <pb facs="tcp:19375:3"/>
+               <head>THESES LOGICAE. THESES I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N Definitione generis explicatur, non natura realis, nec intentio ſecunda, nec quicquam ex utroque conflatum, ſed illa, hac veſtita.</p>
+               <p n="2">
+                  <hi>II.</hi> Eſſentialis, per genus ſuperiùs tradi<g ref="char:EOLhyphen"/>ta definitio, generi nequaquam repugnat: nec inde in infinitum progreſſus colligi potest.</p>
+               <p n="3">
+                  <hi>III.</hi> De individuis genus, ut &amp; ſpecies, rectè vereue enun<g ref="char:EOLhyphen"/>ciari potest: illud ut totum potentiale, haec ut actuale.</p>
+               <p n="4">
+                  <hi>IV.</hi> Genus, ſpecierum ſubjectarum totum potentiale &amp; univer<g ref="char:EOLhyphen"/>ſale rectè nominatur, cum eas in ſe non actu, ſed potentia contineat.</p>
+               <p n="5">
+                  <hi>V.</hi> Quaelibet ſpecies, genus ſuum totum actu continet.</p>
+               <p n="6">
+                  <hi>VI.</hi> Nulla generi individua, immediatè ſubſternuntur, de qui<g ref="char:EOLhyphen"/>bus, nullo medio praedicari poſsit.</p>
+               <p n="7">
+                  <hi>VII.</hi> Specierum, aliae praedicabiles ſunt tantùm, ſubjicibiles tantùm aliae: utramue aliae rationem ſubeunt.</p>
+               <p n="8">
+                  <hi>VIII.</hi> Speciei ad genus relatae univerſalitas, ſemper nobis chymaerica viſa est (utut ſpecies ſubjicibilis, ab omni conditione ſingulari abſtrahatur) cum omne univerſale, multa inferiora reſpi<g ref="char:EOLhyphen"/>ciat.</p>
+               <p n="9">
+                  <hi>IX.</hi> Tota generis perfectio propria &amp; eſſentialis, in una ſpecie, ſpeciei, in uno individuo conſervari potest.</p>
+               <p n="10">
+                  <pb facs="tcp:19375:4"/>
+                  <hi>X.</hi> Perfectio, quam generi addunt ſpecies, pluriume ſpecierum conſortium, una non ſufficiente, poſtulat</p>
+               <p n="11">
+                  <hi>XI.</hi> Species, in uno individuo, omni perfectione ſpecifica ornata reperitur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at varia variorum individuorum perfectio, non niſi in diver<g ref="char:EOLhyphen"/>ſis ſingularibus invenitur.</p>
+               <p n="12">
+                  <hi>XII.</hi> A genere ad ſpeciem, affirmatè non arguimus: determina<g ref="char:EOLhyphen"/>tum ex ſpecie individuum inferre nihil vetat.</p>
+               <p n="13">
+                  <hi>XIII.</hi> Quaecunque de ſuperioribus dicantur, de inferioribus prae<g ref="char:EOLhyphen"/>dicentur neceſſe eſt.</p>
+               <p n="14">
+                  <hi>XIV.</hi> Vniverſalium pluralitatem, nullo rationis momento ful<g ref="char:EOLhyphen"/>tam propugnent alii, eorundem nos dualitatem, firmiſsimae innixam baſi tuebimur.</p>
+               <p n="15">
+                  <hi>XV.</hi> Omne genus, propriae differentiae, nobilitate impar eſt, cum quilibet actus, quam perficit &amp; determinat potentiam, dignita<g ref="char:EOLhyphen"/>te excedat.</p>
+               <p n="16">
+                  <hi>XVI.</hi> Gradus generis &amp; differentiae, ſola ratione diſtincti, com<g ref="char:EOLhyphen"/>poſitum reale, per compoſitionem realem, conſtituere nequeunt.</p>
+               <p n="17">
+                  <hi>XVII.</hi> Differentiae de ſua ſpecie praedicatio, univerſalis non est, cum omne univerſale, ad plura ordinem dicat: ſpeciem utpote com<g ref="char:EOLhyphen"/>munem multis, ad terminandam differentiae univerſalitatem ad ip<g ref="char:EOLhyphen"/>ſam ſufficere, ineptum est delirantium effugium.</p>
+               <p n="18">
+                  <hi>XVIII.</hi> Accidentia cuncta propria, ſunt neceſſaria: non om<g ref="char:EOLhyphen"/>nes tamen formae accidentales, neceſsitatis vinculo cum ſubjecto cobaerentes, ſunt propriae, ut Grammatica, Muſica.</p>
+               <p n="19">
+                  <hi>XIX.</hi> Accidentium propriorum alia, à ſubjecto ſeparari impoſsi<g ref="char:EOLhyphen"/>bile eſt, aliorum ſeparatio realis, repugnantiam non involvit.</p>
+               <p n="20">
+                  <hi>XX.</hi> Ignis ad calorem ſuſcipiendum aptitudo, ſolis ad lucem propenſio, ſunt utrique non communia, ſed propria accidentia, illa igni, haec ſoli.</p>
+               <p n="21">
+                  <hi>XXI.</hi> Ab accidente, proprium rectè distinguit Porphyrius; quod hoc de ſpecie primo, eaue mediante de individuis dicatur, il<g ref="char:EOLhyphen"/>lud vero immediate de individuis, eorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> benificio de ſpecie praedi<g ref="char:EOLhyphen"/>cetur.</p>
+               <p n="22">
+                  <hi>XXII.</hi> Nulla eſt proprii ad ſpeciem relati univerſalitas.</p>
+               <p n="23">
+                  <hi>XXIII.</hi> Porphyriana accidentis communis definitio, nondum
+<pb facs="tcp:19375:4" rendition="simple:additions"/> ſatis intellecta, Philoſophos jamdiu exercuit, aliis abſtractionem mentalem ſimplicem, aliis compoſitam intelligentibus: nec mirum, castiſsimam &amp; intemeratam hanc virginem veritatem, illis procis, pulcherrimam ipſius faciem, craſsiſsimo errorum coeno deturpanti<g ref="char:EOLhyphen"/>bus, moroſam ſeſe &amp; velatam exhibere, quae tamen nobis, pacis &amp; veritatis amantiſsimis, ſe amplectendam velo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> amoto conſpiciendam praebuit, de cujus gremio, hunc definitionis ſenſum hauſimus: acci<g ref="char:EOLhyphen"/>dens commune ſuo inhaeſionis ſubjecto adeſſe, &amp; abeſſe realiter, &amp; naturaliter potest, citra omnem non Metaphyſicum modo &amp; eſſen<g ref="char:EOLhyphen"/>tialem, ſed &amp; Phyſicum, &amp; existentiae interitum.</p>
+               <p n="24">
+                  <hi>XXIV.</hi> DEVM Ter Opt. Max. à ſubſtantiae praedica<g ref="char:EOLhyphen"/>mento excludit infinita ejuſdem perfectio, cui omnis generis &amp; dif<g ref="char:EOLhyphen"/>ferentiae conceptus repugnat.</p>
+               <p n="25">
+                  <hi>XXV.</hi> Eadem ejuſdem, nullis limitibus circumſcripta perfectio, ad ſubſtantiae Categoriam DEVM reducentium errorem, clariſ<g ref="char:EOLhyphen"/>ſime redarguit.</p>
+               <p n="26">
+                  <hi>XXVI.</hi> Intelligentiae, utut actus puri, omniſue corruptionis expertes, in eodem cum corruptibilibus praedicamento collocandae ſunt: Cum, aequa, ſupremum genus de illis &amp; hiſce, ratione praedi<g ref="char:EOLhyphen"/>cetar.</p>
+               <p n="27">
+                  <hi>xxvij.</hi> Idem de corporibus coelestibus, ex genere quippe &amp; dif<g ref="char:EOLhyphen"/>ferentia conflatis, judicium eſto.</p>
+               <p n="28">
+                  <hi>xxviij.</hi> Subſtantiae in primam &amp; ſecundam partitio, generis in ſpe<g ref="char:EOLhyphen"/>cies no<g ref="char:cmbAbbrStroke">̄</g> eſt, altero diviſionis membro omne genus exhauriente, nec ana<g ref="char:EOLhyphen"/>logi in ſua analogata, ut recentioribus haud paucis placet, cu<g ref="char:cmbAbbrStroke">̄</g> de ſuis diviſum membris, una eademque ratione praedicetur, ſed eſt ſubjecti in accidentia realia diviſio.</p>
+               <p n="29">
+                  <hi>Xxix.</hi> Omnis ſubſtantia, infinita, finita, completa, incompleta, ſubjecti fulcientis opem reſpuit.</p>
+               <p n="30">
+                  <hi>xxx.</hi> Subſtantia ſubſtantiae contraria non eſt, quamvis ſe ab eodem viciſsim expellant.</p>
+               <p n="31">
+                  <hi>xxxj.</hi> Veterum Philoſophorum, opinionem quampiam ſtabilien<g ref="char:EOLhyphen"/>tium authoritas (cui plurimum nos tribuendum cenſemus) quomi<g ref="char:EOLhyphen"/>nùs contraria ſententia vera, fidem inveniat<g ref="char:punc">▪</g> obeſſe nequit: omnem idcirco qualitatis intenſionem, &amp; remiſsionem, ut inane ſubtiliter
+<pb facs="tcp:19375:5"/> nimis Philoſophantium commentum, nulli rationis fulcro innixam, ex ſaniore Philoſophia explodi cupimus, donec copico ſaltem id ar<g ref="char:EOLhyphen"/>gumento quodam (quod ad Graecas Kalendas fiet) confirmetur.</p>
+               <p n="32">
+                  <hi>xxxij.</hi> Gradualem ſubſtantiae intenſionem &amp; remiſsonem, qua<g ref="char:EOLhyphen"/>lem qualitatibus, Philoſophorum vulgus tribuit, Doctorum quorun<g ref="char:EOLhyphen"/>dam aures ferre nequeunt, quam tamen nos doctrinam (rationem autoritate potiorem ducentes) Philoſophiae utpote puriori, in recta ratione fundatae congruam (apage inane ſubſtantiae completae, in<g ref="char:EOLhyphen"/>completae, Categoricae, &amp; non Categoricae effugium) propugnaturi amplectimur, ſententiam, ratione ſuperati mutaturi.</p>
+               <p n="33">
+                  <hi>xxxiij.</hi> Suar. Ruv. aliiue, rerum abſolutarum complementum (haud alias indocti) eſſentiale, relationes cenſent v. g. acciden<g ref="char:EOLhyphen"/>tis, potentiae, habitus, materiae, ad ſubjectum, objectum, formam, quorum fundamentum cum apud nos parum, autoritas minùs valeat, omnem relationem (apage tranſcendentalis &amp; Categoricae diſtin<g ref="char:EOLhyphen"/>ctionem) abſolutis accidentalem aſſerimus.</p>
+               <p n="34">
+                  <hi>xxxiv.</hi> Abſtracta ſubſtantiarum ſuperiora, de inferioribus re<g ref="char:EOLhyphen"/>ctè enunciari nequeunt: abſtracti de abſtracto in accidentibus prae<g ref="char:EOLhyphen"/>dicatio, Dialecticae amuſsi non repugnat.</p>
+               <p n="35">
+                  <hi>xxxv.</hi> Vnus potentiarum cognoſcitivarum intellectus, entia rationis formare potest; ſuam idcirco hircocervus, chymaera, aliaque phantaſiae in ſomnis, morbiſve apparentia monſtra, realita<g ref="char:EOLhyphen"/>tem obtinent.</p>
+               <p n="36">
+                  <hi>xxxvj.</hi> Cuncta intellectui divino clariſsime patent, nec ullae, il<g ref="char:EOLhyphen"/>li tenebrae offundi poſſunt; rationis tamen entia, citra omnem imperfe<g ref="char:EOLhyphen"/>ctionem formare non poſſe DEVM, hinc minimè colligi poteſt, cum ſuam Ens rationis existentiam objectivam, à divino intellecta cog<g ref="char:EOLhyphen"/>nitum ſortiatur.</p>
+               <p n="37">
+                  <hi>xxxvij.</hi> Sexta ſubſtantiae proprietas, nimirum quod eadem numero manens, ſit contrariorum ſuſceptiva, omni, ſoli ſemper ſub<g ref="char:EOLhyphen"/>ſtantiae finitae, completae, incompletae, primae, ſecundae convenit.</p>
+               <p n="38">
+                  <hi>xxxviij.</hi> Propriam quantitatis eſſentiam Suarez, in ejuſdem extenſione impenetrabili collocat, praeter quam, extenſionem aliam en<g ref="char:EOLhyphen"/>titativam comminiſcitur ſubſtantiae, omni quantitate deſtitutae v. g. materiae, quae tota toti loco, partique pars reſpondeat: quam nos
+<pb facs="tcp:19375:5"/> extenſionem entitativam, ſubtile inanis ejuſdem cerebri commentum judicamus, cum, ſola extenſionem omnem quantitas tribuat.</p>
+               <p n="39">
+                  <hi>xxxix.</hi> Relationem à fundamento, ex natura rei diſtinguen<g ref="char:EOLhyphen"/>tium opinio, fundamento caret: non enim ſimilitudo Aristotelis, aliud eſt ab ipſa ejuſdem albedine, ſed eadem, Platonis albedinem ut terminum reſpiciens.</p>
+               <p n="40">
+                  <hi>XL.</hi> Celebris, Thomae cum Scoto controverſia eſt, eadem ne nu<g ref="char:EOLhyphen"/>mero relatio, ad diverſos numero terminos terminetur. Divi (ho<g ref="char:EOLhyphen"/>minis hic infirmi) I homae affirmantis caſtra, ſuccumbentis quippe, (Athletae alias inſignis) deferentes, Scoti victoris vexillum ſe<g ref="char:EOLhyphen"/>quimur.</p>
+               <p n="41">
+                  <hi>XLI.</hi> Est actio res, effectui ſuperaddita, non autem ipſe effectus ut ab agente, hoc eſt, quatenus virtute agentis exiſtit, in quo, praeter relationem, nulla alia res moduſve involvatur.</p>
+               <p n="42">
+                  <hi>XLII.</hi> Propoſitionum de futuris contingentibus veritas est de<g ref="char:EOLhyphen"/>terminata.</p>
+               <p n="43">
+                  <hi>XLIII.</hi> Futura hypothetica, ſeu conditionata libera, pari paſſu cum abſolutis futuris, quoad veritatis &amp; falſitatis determinatio<g ref="char:EOLhyphen"/>nem incedunt.</p>
+               <p n="44">
+                  <hi>XLIV.</hi> Scientia media, ſeu futurorum hypotheticorum praecogni<g ref="char:EOLhyphen"/>tio, actuum libertatem non minuit, nec quicquam incommedi invebit; qua tame<g ref="char:cmbAbbrStroke">̄</g> ſublata, aut falli omniſciente<g ref="char:cmbAbbrStroke">̄</g>, aut varios verè liberos actus neceſſario (non ex Divinae voluntatis hypotheſi tantum, ſed &amp; cau<g ref="char:EOLhyphen"/>ſae proximae executivae ratione) productum iri, concedendum fue<g ref="char:EOLhyphen"/>rit.</p>
+               <p n="45">
+                  <hi>XLV.</hi> Haec futura praecognoſcit DEVS, certo, infallibili<g ref="char:EOLhyphen"/>ter, evidenter, non decreti alicujus aut praedeterminationis Phyſicae virtute, nec in ipſorum cauſa proxima, &amp; immediata; ſed ipſos effe<g ref="char:EOLhyphen"/>ctus (ſuo quemque tempore) futuros intuendo.</p>
+               <p n="46">
+                  <hi>XLVj.</hi> Enunciationes de futuris contingentibus conditionatis, illativae non ſunt, cum, ſua effectum cauſa, liberë producat.</p>
+               <p n="47">
+                  <hi>XLVij.</hi> Quaelibet intellectus cognitio, potentiae ad opus efficien<g ref="char:EOLhyphen"/>dum directiva, actus eſt Practicus, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itus opus liberum, an neceſſa<g ref="char:EOLhyphen"/>rium, errori obnexium, an extra omnem defectus aleam poſitum, poſ<g ref="char:EOLhyphen"/>ſibile tantum, an futurum nihil intereſt.</p>
+               <p n="48">
+                  <pb facs="tcp:19375:6"/>
+                  <hi>XLViij.</hi> Haud minùs claudo, quam illaeſo, ad numeros ſaltandi in<g ref="char:EOLhyphen"/>eſt cognitio Practica.</p>
+               <p n="49">
+                  <hi>XLIX.</hi> Actus, natura ſua Practicus, nequit eſſe ſpeculativus, nec hic Practicus, ob perpetuam objectorum repugnantiam.</p>
+               <p n="50">
+                  <hi>L.</hi> Concluſionem continet in ſe Syllogiſmus, non ut effectum, ſed partem intimè eidem incluſam.</p>
+               <p n="51">
+                  <hi>LI.</hi> Verum vero non repugnat, ideoque in Philoſophia concluſio vera, rationique conſentanea, in Theologia, falſa &amp; fidei contraria eſſe nequit.</p>
+               <p n="52">
+                  <hi>LII.</hi> Nectericorum quorundam ex altera propoſitione contingen<g ref="char:EOLhyphen"/>te demonſtrationem, ut Ariſtoteli ac puriori Dialecticae contrariam, graviore orthodoxorum cenſura dignam cenſemus.</p>
+               <p n="53">
+                  <hi>LIII.</hi> Ex nulla demonſtratione, effectus cauſa innoteſcere po<g ref="char:EOLhyphen"/>teſt, quin ſimul effectus ipſe, ejuſdemue exiſtentia, ex eadem cog<g ref="char:EOLhyphen"/>noſcatur.</p>
+               <p n="54">
+                  <hi>LIV.</hi> Ex principio cognita concluſio, ſuum demonſtrat princi<g ref="char:EOLhyphen"/>pium: ex effectu innoteſcens cauſa, ſuum notificat effectum, ci<g ref="char:EOLhyphen"/>tra ullum in vera Philoſophia errorem, quae idcireo mutua demon<g ref="char:EOLhyphen"/>ſtrandi ratio, ut à veritate aliena, repudianda non est.</p>
+            </div>
+            <div n="sciences" type="subject">
+               <head>THESES PHYSICAE. THESIS I.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Vbſtantia finita, in paſſum à ſe reali<g ref="char:EOLhyphen"/>ter diſtinctum, immediatè, nallius agentis actione media, effectivè influere potest.</p>
+               <p n="2">
+                  <hi>2</hi> Nullus motus naturalis velocior est in fine quam in principio.</p>
+               <p n="3">
+                  <hi>3</hi> Coelum empyreum eſt primum mobile.</p>
+               <p n="4">
+                  <hi>4</hi> Tempus &amp; mundus eode<g ref="char:cmbAbbrStroke">̄</g> inſtante coepere.</p>
+               <p n="5">
+                  <hi>5</hi> Duratio mundo coaeva fuit, ſine qua omnis entis productio im<g ref="char:EOLhyphen"/>poſsibilis eſt.</p>
+               <p n="6">
+                  <pb facs="tcp:19375:6"/>
+                  <hi>6</hi> Tempus diſcretum, nulla mundi pars vel uno durationis inſtan<g ref="char:EOLhyphen"/>te anteceſsit.</p>
+               <p n="7">
+                  <hi>7</hi> Succeſsivum &amp; continuum tempus, motus nimirum duratio, eodem quo mundus inſtante incepit: motumne fuerit an quieverit a mundi primordio Coelum, aliudve corpus, parum refert.</p>
+               <p n="8">
+                  <hi>8</hi> Senis, alii febricitantes, ſomniantes alii, duodenis horis, te<g ref="char:EOLhyphen"/>nebras lucem anteceſsiſſe ferunt, cum, nulla tenebrae hora, illa prio<g ref="char:EOLhyphen"/>res fuerint, perfecta quippe ſolis luce, tenebris coaeva, in primo con<g ref="char:EOLhyphen"/>diti mundi inſtante producta.</p>
+               <p n="9">
+                  <hi>9</hi> Clariſsima luce, primo die, non in ſole, nube ſed alio corpore caduco, uniformiter difformiter producta, priores tenebrae, non ſubito ſed ſenſim, interpoſita morula evanuere.</p>
+               <p n="10">
+                  <hi>10</hi> Aquas elementares, orbi lunari Coeloue Aethereo eminere, inficias complures eunt, non tam rationis momento ducti, quam ca<g ref="char:EOLhyphen"/>taractarum ſolutionem (ut nobis videtur) veriti: quo inani ne<g ref="char:EOLhyphen"/>glecto metu, ſuum illis illic domicilium, ab omnipotente rerum pa<g ref="char:EOLhyphen"/>rente fixum credimus. Contrario, vero patrum torrenti, coeleſti<g ref="char:EOLhyphen"/>bus aquae noſtrae ripis exitium minanti, firmiſsima clauſtra, contra<g ref="char:EOLhyphen"/>riam aliorum patrum ſententiam, inſuperabilemque ſacrae autorita<g ref="char:EOLhyphen"/>tis obicem opponimus.</p>
+               <p n="11">
+                  <hi>11</hi> Sol, Luna, caeterique planetae, quarto producta die dicuntur, non ſubſtantiali, materiae, &amp; formae, ex nihilo creatione, nec formae de materiae potentia eductione, nec harum Coeli partium rarefactio<g ref="char:EOLhyphen"/>ne, aliarum condenſatione, nec ob qualitatis cujuſdam intrinſecae &amp; perficientis acceſſum, ſed ob ſolum formae accidentalis extrinſecae appulſum.</p>
+               <p n="12">
+                  <hi>12</hi> Sol, quarto primum die in orbem cieri coepit: an quod tar<g ref="char:EOLhyphen"/>dior iſtius orbis intelligentia motrix, an futuram laborioſi operis laſ<g ref="char:EOLhyphen"/>ſitudinem verita, an quod prior motus ſuperfluus fuiſſet (quae no<g ref="char:EOLhyphen"/>bis ratio unicè arridet) doctioribus indagandum relinquimus.</p>
+               <p n="13">
+                  <hi>13</hi> Diei noctiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> diſcrimen, a Sole, quarto demum die factum recte dicitur.</p>
+               <p n="14">
+                  <hi>14</hi> Non omnes rerum ſpecies, ab optimo rerum parente DEO, ſex dierum ſpacio creatae fuere, aliis ex putri materia, aliis per adulterinam quaſi maris &amp; foeminae generationem poſtea productis.</p>
+               <p n="15">
+                  <pb facs="tcp:19375:7"/>
+                  <hi>15</hi> Omnes ex aqua avet, non aëre vel terra ortae ſunt.</p>
+               <p n="16">
+                  <hi>16</hi> Coeli, ab omni corruptione naturaliter remoti, in ultimo con<g ref="char:EOLhyphen"/>flagrationis die, non accidentalis tantùm innovatio exſpectanda, ſed ſubſtantialis, nova in materiam forma ſubſtantiali, per generatio<g ref="char:EOLhyphen"/>nem introducta.</p>
+               <p n="17">
+                  <hi>17</hi> Non Philoſophicis hic carceribus egreſsi, Theologiae nietam attingimus, nec ſutores ultra crepidam, ni prudentiſsimorum Philo<g ref="char:EOLhyphen"/>ſophorum exemplo fortè decepti.</p>
+               <p n="18">
+                  <hi>18</hi> Multorum, inanimato, animatum producendi virtutem principalem denegantium ſententia, ſale ne foeteat condienda eſt, pulcherrimis in nostro Philoſophico horto floribus, plantiſque, à So<g ref="char:EOLhyphen"/>le ut cauſa principali, hoc anno genitus.</p>
+               <p n="19">
+                  <hi>19</hi> Multa multi de accretione ſubtiliter (ut ipſis videtur) diſceptantes, ex introſumpto alimento, inque viventis, nondum ju<g ref="char:EOLhyphen"/>ſtam quantitatem adepti ſubſtantiam, caloris naturalis virtute con<g ref="char:EOLhyphen"/>verſo, augeri vivens autumant: accretione tamen (niſi recta nos ra<g ref="char:EOLhyphen"/>tio deſerit) prorſus impoſsibili. Spinoſas idcirco de hac chynaera quaeſtiunculas, quibus hominum ingenia lacerentur, deſinant dein<g ref="char:EOLhyphen"/>ceps nectere Philoſophi.</p>
+               <p n="20">
+                  <hi>20</hi> Plurimos hodie Philoſophos, ſpinoſae de mixtione quaeſtio<g ref="char:EOLhyphen"/>nes, haud parum torquent, quarum nos ſpinas, hac distinctionis fal<g ref="char:EOLhyphen"/>ce praecidimus: mixtio ſubſtantialis duplex est, realis, &amp; chymae<g ref="char:EOLhyphen"/>rica, in ſola, illa, <g ref="char:V">Ʋ</g>topia, haec paſsim reperitur.</p>
+               <p n="21">
+                  <hi>21</hi> Nullum accidens, ſubſtantiae productionem, virtute propria nec ſubſtantia principalis agentis attingere poteſt.</p>
+               <p n="22">
+                  <hi>22</hi> Peripateticam de multis rebus naturalibus ſententiam, ip<g ref="char:EOLhyphen"/>ſiſsimam licet veritatem, temerario coeci judicio, fabulam ducunt, ipſique Philoſopho, igni ſummum, aeri mediocrem calorem, extre<g ref="char:EOLhyphen"/>mum aquae frigus, terrae temperatum aſsignanti, malignum infige<g ref="char:EOLhyphen"/>re dentem gaudent.</p>
+               <p n="23">
+                  <hi>23</hi> Mirari utique libet quorundam doctiorum ingenium, qui mutuam elementorum tranſmutationem, in dubium vocare (Philo<g ref="char:EOLhyphen"/>ſophica quaeque in epochen deſinere rati) ſoleant, firmiſsimae licet ra<g ref="char:EOLhyphen"/>tioni innixam.</p>
+               <p n="24">
+                  <hi>24</hi> Pleroſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Philoſophos, Platonicos evaſiſſe dixeris, numeris</p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:19375:7" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
